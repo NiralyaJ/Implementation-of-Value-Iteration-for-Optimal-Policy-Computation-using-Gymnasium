@@ -383,9 +383,11 @@ env1.close()
 
 The program produces the following output format:
 
+<img width="537" height="362" alt="Screenshot 2026-08-05 111903" src="https://github.com/user-attachments/assets/3eacc883-279d-4406-8863-b227eba8917b" />
 
 ## New enviroment description
 
+<img width="653" height="398" alt="Screenshot 2026-08-05 112228" src="https://github.com/user-attachments/assets/883876b7-cd8e-4146-b5f2-c9895b2e4eac" />
 
 
 ---
